@@ -7,8 +7,7 @@ title: Quem Somos.
 	<h1 class="pageTitle">Homem Racional</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
 	<p class="intro">Consciência e Racionalidade como uma manifestação dos valores humanos verossímeis e concretos. 
-	<a 
-	</a> </p>
+	</p>
 	<p> </p>
 	<h2>Agradecimentos</h2>
 	<ul>
