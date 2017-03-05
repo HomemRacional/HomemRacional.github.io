@@ -1,7 +1,6 @@
-title: Em Testes...
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
-
-url: http://brianmaierjr.github.com/long-haul
+title: Homem Racional. 
+description: Consciência e Racionalidade como uma manifestação dos valores humanos verossímeis e concretos.
+url: https://homemracional.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -16,7 +15,7 @@ navigation:
    url: /index.html
  - title: Quem Somos
    url: /about
- - title: Contact
+ - title: Contato
    url: /contact
 
 social:
