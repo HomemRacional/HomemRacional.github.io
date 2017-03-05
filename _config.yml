@@ -10,7 +10,7 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
-navigation:
+navigation:Homem Racioanal
  - title: Inicio
    url: /index.html
  - title: Quem Somos
